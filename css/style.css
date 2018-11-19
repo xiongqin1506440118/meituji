@@ -1,0 +1,64 @@
+/* 通用属性 内外边距为0 */
+*{
+    margin:0;
+    padding:0;
+}
+ /* 背景颜色设为黑色 */
+body{
+    background-color: #817a7a;
+    font-family: arial,sans-serif;
+    font-size: 25px;
+    font-style: normal;
+}
+.header{
+    background-color: #222222;
+    height: 50px;
+    width: 100%;
+    padding: relative;
+    position: relative;
+}
+div{
+    display: block;
+}
+li,ul,a,div{
+    border: 0;
+    list-style: none;
+}
+a{
+    color: #f0ebeb;
+    text-decoration: none;
+    cursor: auto;
+}
+ 
+.hd-bar-logo{
+    width: 134px;
+    height: 30px;
+    float: left;
+    padding-right:1px;
+      
+}
+.hd-bar-nav{
+    height: 70px;
+    float: right;
+}
+.hd-bar-nav li{
+    height: 70px;
+    float: left;
+    margin-right: 20px;
+}
+.hd-bar-nav li *{
+    color: #dadada;
+    font-size: 25px;
+    display: inline-block;
+    line-height: 22px;
+    vertical-align: top;
+}
+.hd-bar-nav{
+    height: 25px;
+    line-height: 22px;
+    padding: 25px 17px;
+}
+
+.hd-bar-nav li a:hover{
+    background-color: #817a7a;
+}
