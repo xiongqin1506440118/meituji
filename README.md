@@ -1,2 +1,5 @@
-# meituji
-Websites about pictures.
+<h2>项目名称：meituji美图集</h1>
+<h4>项目说明：Websites about pictures.欢迎来到美图集，我们是一个和图片有关的网站。</h4>
+<h4>项目的功能：用户可以在该网站浏览搜索下载图片。</h4>
+<h4>使用：在浏览器上搜索关键字：美图集,图片,meituji,picture,photo,html5,css可以找到该网站并使用。</h4>
+<h4>最后，感谢组员的辛苦编辑和老师悉心的教导，才能大概的完成这个网站，不完美的地方只能日后慢慢修改了。</h4>
